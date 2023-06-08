@@ -44,6 +44,7 @@ File Description
 Results
 
 After evaluating various machine learning models, the best-performing model achieved an accuracy of X% on the test set. The model's precision, recall, and F1-score were also calculated and reported. A detailed analysis of the results and discussion of the model's performance can be found in the Jupyter Notebook (diabetes_prediction.ipynb).
+
 Conclusion
 
 This project demonstrates the development of a machine learning model for diabetes prediction using the Pima Indians Diabetes dataset. By leveraging various features from the dataset and employing different machine learning algorithms, accurate predictions about the presence or absence of diabetes can be made. The results of this project can be used to assist in early diagnosis and intervention for individuals at risk of diabetes.
